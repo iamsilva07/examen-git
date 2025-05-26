@@ -1,2 +1,2 @@
-# examen-git
-Examen Git
+## Descripción
+Proyecti para examen Git
